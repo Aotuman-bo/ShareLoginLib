@@ -16,6 +16,6 @@ allprojects {
     repositories {
         jcenter()
         google()
-        maven { url "https://dl.bintray.com/thelasterstar/maven/" }
+        maven { url "https://dl.bintray.com/umsdk/release" }
     }
 }
